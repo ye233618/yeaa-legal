@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy
+---
+
 # Y.EAA Privacy Policy
 
 *Last updated: February 26, 2026*

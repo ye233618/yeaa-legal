@@ -1,3 +1,8 @@
+---
+layout: default
+title: Terms of Service
+---
+
 # Y.EAA Terms of Service
 
 *Last updated: February 26, 2026*
