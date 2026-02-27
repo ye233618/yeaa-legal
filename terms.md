@@ -5,7 +5,7 @@ title: Terms of Service
 
 # Y.EAA Terms of Service
 
-*Last updated: February 26, 2026*
+*Last updated: February 27, 2026*
 
 Y.EAA is operated by the Y.EAA developer. By installing or using the Y.EAA Chrome extension ("the extension"), you agree to these terms.
 
@@ -15,8 +15,8 @@ Y.EAA is a job application assistant that helps users complete application forms
 
 ## 2. Credits and Access
 
-- Usage of Y.EAA requires credits. Credits are obtained exclusively through credit codes provided by the developer.
-- No credits are granted automatically upon registration.
+- Usage of Y.EAA requires credits. New accounts receive a limited number of complimentary starter credits.
+- Additional credits are obtained through credit codes provided by the developer.
 - Credits are non-transferable and non-refundable.
 
 ## 3. User Responsibility
