@@ -5,9 +5,11 @@ title: Terms of Service
 
 # Y.EAA Terms of Service
 
-*Last updated: February 27, 2026*
+*Contact and current operator details updated: October 10, 2026. The existing terms below were last updated February 27, 2026.*
 
-Y.EAA is operated by the Y.EAA developer. By installing or using the Y.EAA Chrome extension ("the extension"), you agree to these terms.
+The current Y.EAA operator is Yeaa Labs, Inc. (company information effective October 10, 2026). By installing or using the Y.EAA Chrome extension ("the extension"), you agree to these terms.
+
+This company and contact update does not assign earlier agreements or alter rights and obligations that arose before October 10, 2026. The existing terms below are preserved; no contract succession or transfer of historical data is asserted by this update.
 
 ## 1. Service Description
 
@@ -66,4 +68,4 @@ These terms are governed by the laws of Japan. Any disputes arising from these t
 
 ## 13. Contact
 
-For questions about these terms, contact: yeaanyc@gmail.com
+For questions about these terms, contact: ye.xinnan@yeaa.app

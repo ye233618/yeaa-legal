@@ -5,9 +5,9 @@ title: Privacy Policy
 
 # Y.EAA Privacy Policy
 
-*Last updated: February 26, 2026*
+*Contact and operator details updated: October 10, 2026. Existing published-release processing disclosure below was last updated February 26, 2026.*
 
-Y.EAA is a Chrome browser extension operated by the Y.EAA developer. This policy describes how we collect, use, and protect your information.
+Y.EAA is a Chrome browser extension operated by Yeaa Labs, Inc. This policy describes how we collect, use, and protect your information.
 
 ## 1. Information We Collect
 
@@ -66,4 +66,4 @@ We may update this policy from time to time. Changes will be posted at this URL 
 
 ## 9. Contact
 
-For privacy inquiries or data deletion requests, contact: yeaanyc@gmail.com
+For privacy inquiries or data deletion requests, contact: ye.xinnan@yeaa.app
